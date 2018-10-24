@@ -1,4 +1,4 @@
-package com.gratone.monitor.bean;
+package com.gratone.bean;
 
 import javax.persistence.Column;
 import javax.persistence.Id;

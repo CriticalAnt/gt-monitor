@@ -1,6 +1,6 @@
-package com.gratone.monitor.service;
+package com.gratone.service;
 
-import com.gratone.monitor.bean.DemoInfo;
+import com.gratone.bean.DemoInfo;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,8 +1,8 @@
-package com.gratone.monitor.service.impl;
+package com.gratone.demo.service.impl;
 
-import com.gratone.monitor.bean.DemoInfo;
-import com.gratone.monitor.mapper.DemoInfoMapper;
-import com.gratone.monitor.service.DemoService;
+import com.gratone.bean.DemoInfo;
+import com.gratone.demo.mapper.DemoInfoMapper;
+import com.gratone.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

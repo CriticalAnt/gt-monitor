@@ -1,6 +1,6 @@
-package com.gratone.monitor.mapper;
+package com.gratone.demo.mapper;
 
-import com.gratone.monitor.bean.DemoInfo;
+import com.gratone.bean.DemoInfo;
 import tk.mybatis.mapper.common.Mapper;
 
 /**
